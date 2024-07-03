@@ -24,6 +24,19 @@ Web Application Development:
 
 Example outputs:
 
-Upload Page
+index.html
 ![Upload Page](https://github.com/CarlosIanL/Anomaly-Detection-on-Inventory-Levels-Data-using-LSTM-with-STL-Seasonal-Trend-Decomposition/assets/132331338/032ad514-0ecd-4b2a-b8e6-59f21d8bd52e)
 
+Result.html
+![Detected Anomalies Page 1](https://github.com/CarlosIanL/Anomaly-Detection-on-Inventory-Levels-Data-using-LSTM-with-STL-Seasonal-Trend-Decomposition/assets/132331338/47ed878a-986b-4801-9247-471ca986f469)
+
+![Detected Anomalies Page 2](https://github.com/CarlosIanL/Anomaly-Detection-on-Inventory-Levels-Data-using-LSTM-with-STL-Seasonal-Trend-Decomposition/assets/132331338/4c80534f-455e-467f-89a5-7f81a9672fa8)
+
+no_anomaly.html
+![no anomalies page](https://github.com/CarlosIanL/Anomaly-Detection-on-Inventory-Levels-Data-using-LSTM-with-STL-Seasonal-Trend-Decomposition/assets/132331338/9eca1a32-8a56-48fa-bb25-d24260397692)
+
+trend_seasonality.html
+![Trend and Seasonality Page](https://github.com/CarlosIanL/Anomaly-Detection-on-Inventory-Levels-Data-using-LSTM-with-STL-Seasonal-Trend-Decomposition/assets/132331338/fd8239ec-1c23-44b7-9a3f-06800f67f5b9)
+
+null_values.html
+![Null_values](https://github.com/CarlosIanL/Anomaly-Detection-on-Inventory-Levels-Data-using-LSTM-with-STL-Seasonal-Trend-Decomposition/assets/132331338/1d42645b-0777-4639-b089-6635a578793a)
